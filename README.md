@@ -5,3 +5,5 @@ Playable demo "ApplePicker" at CmdCtrl.github.io/ApplePicker/
 
 Playable demo "Prospector Solitaire" at CmdCtrl.github.io/prospector/
 
+Playable demo "Bartok" at http://cmdctrl.github.io/bartok/
+
